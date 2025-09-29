@@ -8,6 +8,8 @@ categories:
     subtitle: "If you can think of a more appropriate category for the items below, PRs welcome!"
   - category: "package-managers"
     title: "Package Managers"
+  - category: "linters"
+    title: "Linters & Style Checkers"
 
 labels:
   - label: "written-in-rust"
@@ -19,3 +21,7 @@ projects:
     github_id: astral-sh/uv
     labels: ["written-in-rust"]
     category: "package-managers"
+  - name: ruff
+    github_id: astral-sh/ruff
+    labels: ["written-in-rust"]
+    category: "linters"
