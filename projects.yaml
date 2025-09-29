@@ -10,6 +10,8 @@ categories:
     title: "Package Managers"
   - category: "linters"
     title: "Linters & Style Checkers"
+  - category: "type-checkers"
+    title: "Type Checkers"
 
 labels:
   - label: "written-in-rust"
@@ -25,3 +27,7 @@ projects:
     github_id: astral-sh/ruff
     labels: ["written-in-rust"]
     category: "linters"
+  - name: ty
+    github_id: astral-sh/ty
+    labels: ["written-in-rust"]
+    category: "type-checkers"
