@@ -57,9 +57,9 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/astral-sh/uv">uv</a></b> (🥇38 ·  ⭐ 72K · 📈) - An extremely fast Python package and project manager, written in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/astral-sh/uv">uv</a></b> (🥇38 ·  ⭐ 73K) - An extremely fast Python package and project manager, written in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/astral-sh/uv) (👨‍💻 470 · 🔀 2.2K · 📥 59M · 📦 6 · 📋 8K - 26% open · ⏱️ 05.11.2025):
+- [GitHub](https://github.com/astral-sh/uv) (👨‍💻 470 · 🔀 2.2K · 📥 58M · 📦 6 · 📋 8K - 26% open · ⏱️ 13.11.2025):
 
 	```
 	git clone https://github.com/astral-sh/uv
@@ -73,7 +73,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/astral-sh/ruff">ruff</a></b> (🥇44 ·  ⭐ 44K) - An extremely fast Python linter and code formatter, written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/astral-sh/ruff) (👨‍💻 740 · 🔀 1.6K · 📥 3.1M · 📦 130K · 📋 7.4K - 21% open · ⏱️ 06.11.2025):
+- [GitHub](https://github.com/astral-sh/ruff) (👨‍💻 750 · 🔀 1.6K · 📥 3M · 📦 130K · 📋 7.5K - 21% open · ⏱️ 13.11.2025):
 
 	```
 	git clone https://github.com/astral-sh/ruff
@@ -87,7 +87,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/astral-sh/ty">ty</a></b> (🥇28 ·  ⭐ 13K · 🐣) - An extremely fast Python type checker and language server, written in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/astral-sh/ty) (👨‍💻 25 · 🔀 130 · 📥 33K · 📦 400 · 📋 1.2K - 35% open · ⏱️ 03.11.2025):
+- [GitHub](https://github.com/astral-sh/ty) (👨‍💻 26 · 🔀 130 · 📥 35K · 📦 420 · 📋 1.3K - 33% open · ⏱️ 12.11.2025):
 
 	```
 	git clone https://github.com/astral-sh/ty
