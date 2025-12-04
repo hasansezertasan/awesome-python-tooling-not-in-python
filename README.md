@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-3-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-2-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-tooling-not-in-python?color=green&label=updated"></a>
 </p>
 
-This curated list contains 3 awesome open-source projects with a total of 130K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 2 awesome open-source projects with a total of 88K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -23,7 +23,7 @@ This curated list contains 3 awesome open-source projects with a total of 130K s
 
 - [Miscellaneous](#miscellaneous) _0 projects_
 - [Package Managers](#package-managers) _1 projects_
-- [Linters & Style Checkers](#linters--style-checkers) _1 projects_
+- [Linters & Style Checkers](#linters--style-checkers) _0 projects_
 - [Type Checkers](#type-checkers) _1 projects_
 
 ## Explanation
@@ -57,9 +57,9 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/astral-sh/uv">uv</a></b> (🥇43 ·  ⭐ 74K · 📈) - An extremely fast Python package and project manager, written in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/astral-sh/uv">uv</a></b> (🥇43 ·  ⭐ 74K) - An extremely fast Python package and project manager, written in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/astral-sh/uv) (👨‍💻 480 · 🔀 2.3K · 📥 60M · 📦 13K · 📋 8.1K - 26% open · ⏱️ 27.11.2025):
+- [GitHub](https://github.com/astral-sh/uv) (👨‍💻 480 · 🔀 2.3K · 📥 65M · 📦 13K · 📋 8.1K - 26% open · ⏱️ 04.12.2025):
 
 	```
 	git clone https://github.com/astral-sh/uv
@@ -71,23 +71,15 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/astral-sh/ruff">ruff</a></b> (🥇44 ·  ⭐ 44K) - An extremely fast Python linter and code formatter, written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/astral-sh/ruff) (👨‍💻 760 · 🔀 1.6K · 📥 3.2M · 📦 130K · 📋 7.5K - 21% open · ⏱️ 27.11.2025):
-
-	```
-	git clone https://github.com/astral-sh/ruff
-	```
-</details>
 <br>
 
 ## Type Checkers
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/astral-sh/ty">ty</a></b> (🥇28 ·  ⭐ 14K · 🐣) - An extremely fast Python type checker and language server, written in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/astral-sh/ty">ty</a></b> (🥇28 ·  ⭐ 14K) - An extremely fast Python type checker and language server, written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/astral-sh/ty) (👨‍💻 27 · 🔀 140 · 📥 42K · 📦 470 · 📋 1.4K - 33% open · ⏱️ 26.11.2025):
+- [GitHub](https://github.com/astral-sh/ty) (👨‍💻 28 · 🔀 140 · 📥 42K · 📦 490 · 📋 1.5K - 34% open · ⏱️ 04.12.2025):
 
 	```
 	git clone https://github.com/astral-sh/ty
