@@ -31,3 +31,7 @@ projects:
     github_id: astral-sh/ty
     labels: ["written-in-rust"]
     category: "type-checkers"
+  - name: pixi
+    github_id: prefix-dev/pixi
+    labels: ["written-in-rust"]
+    category: "package-managers"
