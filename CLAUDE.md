@@ -60,11 +60,17 @@ The GitHub workflow (`update-best-of-list.yml`) runs every Thursday at 6 PM UTC:
 
 Manual trigger: Run workflow from GitHub Actions with optional version input.
 
-### PR/Issue Guidelines
+### Contribution Conventions
 
-- Title format: `Add project: name` or `Update project: name`
-- One project per PR/issue
-- Use issue templates for suggestions
+See `CONTRIBUTING.md` for full details. Key points:
+
+- **One project per PR/issue**
+- **Branch naming**: `feat/<github_id>` for projects, `docs/<description>` for docs
+- **PR title**: `` Add `project:<github_id>` `` (use backtick-wrapped identifiers)
+- **PR title with category**: `` Add `project:<github_id>` and `category:<id>` ``
+- **Docs PR title**: `docs: <description>`
+- **PR body**: Fill in `.github/PULL_REQUEST_TEMPLATE.md` — check the change type box, add a project link with description, check both checklist items
+- **Commits**: Squash-merged using the PR title, so branch commit messages don't matter
 
 ## Files You Should Know
 
