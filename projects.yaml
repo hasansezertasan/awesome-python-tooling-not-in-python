@@ -12,26 +12,123 @@ categories:
     title: "Linters & Style Checkers"
   - category: "type-checkers"
     title: "Type Checkers"
+  - category: "formatters"
+    title: "Formatters"
+  - category: "build-tools"
+    title: "Build Tools"
+  - category: "compilers"
+    title: "Compilers"
+  - category: "web-servers"
+    title: "Web Servers & Frameworks"
+  - category: "interpreters"
+    title: "Interpreters"
+  - category: "profilers"
+    title: "Profilers"
 
 labels:
   - label: "written-in-rust"
     description: "Written in Rust"
-    image: "https://images.icon-icons.com/2699/PNG/512/rust_lang_logo_icon_169776.png"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org"
+  - label: "written-in-go"
+    description: "Written in Go"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://go.dev"
+  - label: "written-in-cpp"
+    description: "Written in C++"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org"
+  - label: "written-in-zig"
+    description: "Written in Zig"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://ziglang.org"
 
 projects:
+  # Package Managers
   - name: uv
     github_id: astral-sh/uv
     labels: ["written-in-rust"]
     category: "package-managers"
-  - name: ruff
-    github_id: astral-sh/ruff
-    labels: ["written-in-rust"]
-    category: "linters"
-  - name: ty
-    github_id: astral-sh/ty
-    labels: ["written-in-rust"]
-    category: "type-checkers"
   - name: pixi
     github_id: prefix-dev/pixi
     labels: ["written-in-rust"]
     category: "package-managers"
+  - name: rye
+    github_id: astral-sh/rye
+    labels: ["written-in-rust"]
+    category: "package-managers"
+  - name: mamba
+    github_id: mamba-org/mamba
+    labels: ["written-in-cpp"]
+    category: "package-managers"
+  # Linters & Style Checkers
+  - name: ruff
+    github_id: astral-sh/ruff
+    labels: ["written-in-rust"]
+    category: "linters"
+  # Type Checkers
+  - name: ty
+    github_id: astral-sh/ty
+    labels: ["written-in-rust"]
+    category: "type-checkers"
+  - name: pyrefly
+    github_id: facebook/pyrefly
+    labels: ["written-in-rust"]
+    category: "type-checkers"
+  - name: zuban
+    github_id: zubanls/zuban
+    labels: ["written-in-rust"]
+    category: "type-checkers"
+  - name: pylyzer
+    github_id: mtshiba/pylyzer
+    labels: ["written-in-rust"]
+    category: "type-checkers"
+  # Build Tools
+  - name: maturin
+    github_id: PyO3/maturin
+    labels: ["written-in-rust"]
+    category: "build-tools"
+  - name: PyCrucible
+    github_id: razorblade23/PyCrucible
+    labels: ["written-in-rust"]
+    category: "build-tools"
+  # Compilers
+  - name: cython
+    github_id: cython/cython
+    labels: ["written-in-cpp"]
+    category: "compilers"
+  - name: codon
+    github_id: exaloop/codon
+    labels: ["written-in-cpp"]
+    category: "compilers"
+  # Web Servers & Frameworks
+  - name: robyn
+    github_id: sparckles/Robyn
+    labels: ["written-in-rust"]
+    category: "web-servers"
+  - name: granian
+    github_id: emmett-framework/granian
+    labels: ["written-in-rust"]
+    category: "web-servers"
+  - name: uWSGI
+    github_id: unbit/uwsgi
+    labels: ["written-in-cpp"]
+    category: "web-servers"
+  # Interpreters
+  - name: RustPython
+    github_id: RustPython/RustPython
+    labels: ["written-in-rust"]
+    category: "interpreters"
+  - name: gpython
+    github_id: go-python/gpython
+    labels: ["written-in-go"]
+    category: "interpreters"
+  - name: osmium
+    github_id: Rexicon226/osmium
+    labels: ["written-in-zig"]
+    category: "interpreters"
+  - name: pyston
+    github_id: pyston/pyston
+    labels: ["written-in-cpp"]
+    category: "interpreters"
+  # Profilers
+  - name: memray
+    github_id: bloomberg/memray
+    labels: ["written-in-cpp"]
+    category: "profilers"
