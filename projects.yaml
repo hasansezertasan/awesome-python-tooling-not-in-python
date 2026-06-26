@@ -57,6 +57,10 @@ projects:
     github_id: mamba-org/mamba
     labels: ["written-in-cpp"]
     category: "package-managers"
+  - name: pyflow
+    github_id: David-OConnor/pyflow
+    labels: ["written-in-rust"]
+    category: "package-managers"
   # Linters & Style Checkers
   - name: ruff
     github_id: astral-sh/ruff
