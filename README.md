@@ -10,19 +10,19 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-22-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-21-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-tooling-not-in-python?color=green&label=updated"></a>
 </p>
 
-This curated list contains 22 awesome open-source projects with a total of 290K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 21 awesome open-source projects with a total of 200K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-tooling-not-in-python/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
 - [Miscellaneous](#miscellaneous) _0 projects_
-- [Package Managers](#package-managers) _5 projects_
+- [Package Managers](#package-managers) _4 projects_
 - [Linters & Style Checkers](#linters--style-checkers) _1 projects_
 - [Type Checkers](#type-checkers) _4 projects_
 - [Formatters](#formatters) _0 projects_
@@ -66,25 +66,17 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/astral-sh/uv">uv</a></b> (🥇46 ·  ⭐ 87K) - An extremely fast Python package and project manager, written in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/prefix-dev/pixi">pixi</a></b> (🥇33 ·  ⭐ 7.4K) - Powerful system-level package manager for Linux, macOS and Windows.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/astral-sh/uv) (👨‍💻 570 · 🔀 3.3K · 📥 88M · 📦 18K · 📋 9.1K - 25% open · ⏱️ 09.07.2026):
-
-	```
-	git clone https://github.com/astral-sh/uv
-	```
-</details>
-<details><summary><b><a href="https://github.com/prefix-dev/pixi">pixi</a></b> (🥈33 ·  ⭐ 7.4K) - Powerful system-level package manager for Linux, macOS and Windows.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/prefix-dev/pixi) (👨‍💻 280 · 🔀 530 · 📥 4.9M · 📦 5 · 📋 2.6K - 20% open · ⏱️ 09.07.2026):
+- [GitHub](https://github.com/prefix-dev/pixi) (👨‍💻 280 · 🔀 540 · 📥 5.2M · 📦 5 · 📋 2.6K - 20% open · ⏱️ 16.07.2026):
 
 	```
 	git clone https://github.com/prefix-dev/pixi
 	```
 </details>
-<details><summary><b><a href="https://github.com/mamba-org/mamba">mamba</a></b> (🥉26 ·  ⭐ 8.1K) - The Fast Cross-Platform Package Manager. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/mamba-org/mamba">mamba</a></b> (🥈26 ·  ⭐ 8.1K) - The Fast Cross-Platform Package Manager. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/mamba-org/mamba) (👨‍💻 180 · 🔀 440 · 📋 2.1K - 19% open · ⏱️ 07.07.2026):
+- [GitHub](https://github.com/mamba-org/mamba) (👨‍💻 180 · 🔀 440 · 📋 2.1K - 19% open · ⏱️ 13.07.2026):
 
 	```
 	git clone https://github.com/mamba-org/mamba
@@ -112,9 +104,9 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/astral-sh/ruff">ruff</a></b> (🥇44 ·  ⭐ 48K · 📈) - An extremely fast Python linter and code formatter, written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/astral-sh/ruff">ruff</a></b> (🥇44 ·  ⭐ 49K) - An extremely fast Python linter and code formatter, written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/astral-sh/ruff) (👨‍💻 920 · 🔀 2.2K · 📥 6.6M · 📦 210K · 📋 8.1K - 20% open · ⏱️ 09.07.2026):
+- [GitHub](https://github.com/astral-sh/ruff) (👨‍💻 930 · 🔀 2.2K · 📥 6M · 📦 210K · 📋 8.1K - 20% open · ⏱️ 16.07.2026):
 
 	```
 	git clone https://github.com/astral-sh/ruff
@@ -128,7 +120,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/astral-sh/ty">ty</a></b> (🥇35 ·  ⭐ 19K) - An extremely fast Python type checker and language server, written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/astral-sh/ty) (👨‍💻 49 · 🔀 310 · 📥 140K · 📦 7.8K · 📋 3.3K - 24% open · ⏱️ 08.07.2026):
+- [GitHub](https://github.com/astral-sh/ty) (👨‍💻 49 · 🔀 320 · 📥 130K · 📦 8.1K · 📋 3.4K - 24% open · ⏱️ 16.07.2026):
 
 	```
 	git clone https://github.com/astral-sh/ty
@@ -136,7 +128,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/facebook/pyrefly">pyrefly</a></b> (🥈31 ·  ⭐ 6.8K) - A fast type checker and language server for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/facebook/pyrefly) (👨‍💻 280 · 🔀 430 · 📥 2.9K · 📋 2.6K - 21% open · ⏱️ 09.07.2026):
+- [GitHub](https://github.com/facebook/pyrefly) (👨‍💻 290 · 🔀 440 · 📥 3.6K · 📋 2.6K - 19% open · ⏱️ 16.07.2026):
 
 	```
 	git clone https://github.com/facebook/pyrefly
@@ -161,7 +153,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/PyO3/maturin">maturin</a></b> (🥇36 ·  ⭐ 5.7K) - Build and publish crates with pyo3, cffi and uniffi bindings as.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/PyO3/maturin) (👨‍💻 220 · 🔀 410 · 📥 8.1M · 📦 6.3K · 📋 870 - 4% open · ⏱️ 09.07.2026):
+- [GitHub](https://github.com/PyO3/maturin) (👨‍💻 220 · 🔀 410 · 📥 8.2M · 📦 6.4K · 📋 880 - 4% open · ⏱️ 14.07.2026):
 
 	```
 	git clone https://github.com/PyO3/maturin
@@ -169,7 +161,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/razorblade23/PyCrucible">PyCrucible</a></b> (🥉14 ·  ⭐ 210) - A robust, cross-platform builder and launcher for Python.. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/razorblade23/PyCrucible">PyCrucible</a></b> (🥉15 ·  ⭐ 210 · 📈) - A robust, cross-platform builder and launcher for.. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -179,7 +171,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/cython/cython">cython</a></b> (🥇42 ·  ⭐ 11K) - The most widely used Python to C compiler. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/cython/cython) (👨‍💻 590 · 🔀 1.6K · 📥 360K · 📦 220K · 📋 4.2K - 31% open · ⏱️ 08.07.2026):
+- [GitHub](https://github.com/cython/cython) (👨‍💻 590 · 🔀 1.6K · 📥 370K · 📦 220K · 📋 4.2K - 31% open · ⏱️ 16.07.2026):
 
 	```
 	git clone https://github.com/cython/cython
@@ -187,7 +179,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/exaloop/codon">codon</a></b> (🥉26 ·  ⭐ 17K) - A high-performance, zero-overhead, extensible Python compiler with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/exaloop/codon) (👨‍💻 21 · 🔀 600 · 📥 59K · 📋 540 - 17% open · ⏱️ 06.07.2026):
+- [GitHub](https://github.com/exaloop/codon) (👨‍💻 21 · 🔀 600 · 📥 59K · 📋 540 - 18% open · ⏱️ 06.07.2026):
 
 	```
 	git clone https://github.com/exaloop/codon
@@ -227,15 +219,15 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/RustPython/RustPython">RustPython</a></b> (🥇33 ·  ⭐ 22K) - A Python Interpreter written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/RustPython/RustPython) (👨‍💻 500 · 🔀 1.4K · 📥 1.3K · 📦 900 · 📋 1.4K - 21% open · ⏱️ 09.07.2026):
+- [GitHub](https://github.com/RustPython/RustPython) (👨‍💻 510 · 🔀 1.4K · 📥 1.3K · 📦 900 · 📋 1.4K - 20% open · ⏱️ 16.07.2026):
 
 	```
 	git clone https://github.com/RustPython/RustPython
 	```
 </details>
-<details><summary><b><a href="https://github.com/go-python/gpython">gpython</a></b> (🥈21 ·  ⭐ 1K · 📈) - gpython is a python interpreter written in go batteries not.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://go.dev" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/go-python/gpython">gpython</a></b> (🥈21 ·  ⭐ 1K) - gpython is a python interpreter written in go batteries not included. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://go.dev" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/go-python/gpython) (👨‍💻 24 · 🔀 100 · 📥 1.1K · 📦 240 · 📋 110 - 45% open · ⏱️ 02.03.2026):
+- [GitHub](https://github.com/go-python/gpython) (👨‍💻 24 · 🔀 100 · 📥 1.1K · 📦 250 · 📋 110 - 45% open · ⏱️ 02.03.2026):
 
 	```
 	git clone https://github.com/go-python/gpython
@@ -252,9 +244,9 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/bloomberg/memray">memray</a></b> (🥇29 ·  ⭐ 15K) - Memray is a memory profiler for Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/bloomberg/memray">memray</a></b> (🥇27 ·  ⭐ 15K · 📉) - Memray is a memory profiler for Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/bloomberg/memray) (👨‍💻 71 · 🔀 450 · 📦 2.2K · 📋 270 - 10% open · ⏱️ 08.07.2026):
+- [GitHub](https://github.com/bloomberg/memray) (👨‍💻 72 · 🔀 450 · 📦 24 · 📋 270 - 10% open · ⏱️ 15.07.2026):
 
 	```
 	git clone https://github.com/bloomberg/memray
