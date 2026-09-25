@@ -1,0 +1,23 @@
+,name,github_id,labels,category,github_url,homepage,license,created_at,updated_at,last_commit_pushed_at,commit_count,fork_count,watchers_count,pr_count,open_issue_count,closed_issue_count,star_count,latest_stable_release_published_at,latest_stable_release_number,github_release_downloads,monthly_downloads,release_count,description,contributor_count,projectrank,show,projectrank_placing,dependent_project_count,github_dependent_project_count
+0,rye,astral-sh/rye,['written-in-rust'],package-managers,https://github.com/astral-sh/rye,https://github.com/astral-sh/rye,MIT,2023-04-22 22:23:54,2026-02-05 00:39:05,2025-08-18 16:52:35,838.0,463.0,4.0,588.0,310.0,372.0,14145.0,2025-02-26 23:56:38,0.44.0,5569175.0,139229.0,48.0,a Hassle-Free Python Experience.,111.0,24,False,1.0,,
+1,ruff,astral-sh/ruff,['written-in-rust'],linters,,{},,,,,,,,,,,,,,,,,,981.0,10,False,1.0,241709.0,241709.0
+2,cython,cython/cython,['written-in-cpp'],compilers,,{},,,,,,,,,,,,,,,,,,605.0,10,False,1.0,217827.0,217827.0
+3,uv,astral-sh/uv,['written-in-rust'],package-managers,,{},,,,,,,,,,,,,,,,,,594.0,9,False,2.0,19739.0,19739.0
+4,uWSGI,unbit/uwsgi,['written-in-cpp'],web-servers,,{},,,,,,,,,,,,,,,,,,375.0,9,False,1.0,61155.0,61155.0
+5,maturin,PyO3/maturin,['written-in-rust'],build-tools,,{},,,,,,,,,,,,,,,,,,226.0,8,False,1.0,6977.0,6977.0
+6,ty,astral-sh/ty,['written-in-rust'],type-checkers,,{},,,,,,,,,,,,,,,,,,56.0,7,False,1.0,10808.0,10808.0
+7,RustPython,RustPython/RustPython,['written-in-rust'],interpreters,,{},,,,,,,,,,,,,,,,,,533.0,7,False,1.0,896.0,896.0
+8,granian,emmett-framework/granian,['written-in-rust'],web-servers,,{},,,,,,,,,,,,,,,,,,50.0,6,False,3.0,1613.0,1613.0
+9,robyn,sparckles/Robyn,['written-in-rust'],web-servers,,{},,,,,,,,,,,,,,,,,,91.0,5,False,3.0,263.0,263.0
+10,gpython,go-python/gpython,['written-in-go'],interpreters,,{},,,,,,,,,,,,,,,,,,24.0,5,False,3.0,260.0,260.0
+11,pyflow,David-OConnor/pyflow,['written-in-rust'],package-managers,,{},,,,,,,,,,,,,,,,,,30.0,4,False,3.0,44.0,44.0
+12,pixi,prefix-dev/pixi,['written-in-rust'],package-managers,,{},,,,,,,,,,,,,,,,,,291.0,3,False,3.0,5.0,5.0
+13,memray,bloomberg/memray,['written-in-cpp'],profilers,,{},,,,,,,,,,,,,,,,,,75.0,3,False,1.0,24.0,24.0
+14,mamba,mamba-org/mamba,['written-in-cpp'],package-managers,,{},,,,,,,,,,,,,,,,,,189.0,2,False,3.0,,
+15,pyrefly,facebook/pyrefly,['written-in-rust'],type-checkers,,{},,,,,,,,,,,,,,,,,,342.0,2,False,3.0,,
+16,pyston,pyston/pyston,['written-in-cpp'],interpreters,,{},,,,,,,,,,,,,,,,,,1039.0,2,False,3.0,,
+17,PyCrucible,razorblade23/PyCrucible,['written-in-rust'],build-tools,,{},,,,,,,,,,,,,,,,,,5.0,1,False,3.0,3.0,3.0
+18,codon,exaloop/codon,['written-in-cpp'],compilers,,{},,,,,,,,,,,,,,,,,,22.0,1,False,3.0,,
+19,zuban,zubanls/zuban,['written-in-rust'],type-checkers,,{},,,,,,,,,,,,,,,,,,14.0,0,False,,,
+20,pylyzer,mtshiba/pylyzer,['written-in-rust'],type-checkers,,{},,,,,,,,,,,,,,,,,,7.0,0,False,,1.0,1.0
+21,osmium,Rexicon226/osmium,['written-in-zig'],interpreters,,{},,,,,,,,,,,,,,,,,,,0,False,,,
