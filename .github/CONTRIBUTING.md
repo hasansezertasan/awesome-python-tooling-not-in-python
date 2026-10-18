@@ -137,7 +137,7 @@ If you want to create your own best-of list, we strongly recommend to follow [th
 
 ### PR body
 
-Fill in the [pull request template](./.github/PULL_REQUEST_TEMPLATE.md):
+Fill in the [pull request template](./PULL_REQUEST_TEMPLATE.md):
 
 1. **What kind of change** — Check the appropriate box(es) with `[x]`.
 2. **Description** — Link to the project's GitHub page with a short description, e.g.:
@@ -152,4 +152,4 @@ This repository uses squash merges, so the final commit message matches the PR t
 
 ## Code of Conduct
 
-All members of the project community must abide by the [Contributor Covenant, version 2.0](./.github/CODE_OF_CONDUCT.md). Only by respecting each other we can develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a project maintainer.
+All members of the project community must abide by the [Contributor Covenant, version 2.0](./CODE_OF_CONDUCT.md). Only by respecting each other we can develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a project maintainer.
